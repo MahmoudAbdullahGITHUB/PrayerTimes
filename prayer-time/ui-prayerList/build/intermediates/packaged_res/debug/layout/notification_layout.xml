@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="43dp"
+        android:layout_toStartOf="@+id/cancel_btn"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/notification_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="This is a custom notification."
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/notification_content1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="This is the content of the custom notification." />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/cancel_btn"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:elevation="20dp"
+        android:background="@drawable/round_orange_background"
+        android:text=" X "
+        android:textColor="#F44336" />
+
+
+</RelativeLayout>

@@ -1,0 +1,162 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.multimodule.test" >
+4
+5    <uses-sdk
+5-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12575581841346457122.xml:5:5-74
+6        android:minSdkVersion="24"
+6-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12575581841346457122.xml:5:15-41
+7        android:targetSdkVersion="33" />
+7-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12575581841346457122.xml:5:42-71
+8
+9    <instrumentation
+9-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12575581841346457122.xml:11:5-15:78
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12575581841346457122.xml:11:22-76
+11        android:functionalTest="false"
+11-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12575581841346457122.xml:14:22-52
+12        android:handleProfiling="false"
+12-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12575581841346457122.xml:13:22-53
+13        android:label="Tests for com.example.multimodule.test"
+13-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12575581841346457122.xml:15:22-76
+14        android:targetPackage="com.example.multimodule.test" />
+14-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12575581841346457122.xml:12:22-74
+15
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->[:prayer-time:ui-prayerList] C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+16-->[:prayer-time:ui-prayerList] C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:22-64
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[:prayer-time:ui-prayerList] C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-79
+17-->[:prayer-time:ui-prayerList] C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-76
+18    <uses-permission android:name="android.permission.REORDER_TASKS" />
+18-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:24:5-72
+18-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:24:22-69
+19
+20    <queries>
+20-->[androidx.test:runner:1.5.2] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\47132d8231f87b7b9bdd02c0120ab6f1\transformed\runner-1.5.2\AndroidManifest.xml:24:5-28:15
+21        <package android:name="androidx.test.orchestrator" />
+21-->[androidx.test:runner:1.5.2] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\47132d8231f87b7b9bdd02c0120ab6f1\transformed\runner-1.5.2\AndroidManifest.xml:25:9-62
+21-->[androidx.test:runner:1.5.2] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\47132d8231f87b7b9bdd02c0120ab6f1\transformed\runner-1.5.2\AndroidManifest.xml:25:18-59
+22        <package android:name="androidx.test.services" />
+22-->[androidx.test:runner:1.5.2] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\47132d8231f87b7b9bdd02c0120ab6f1\transformed\runner-1.5.2\AndroidManifest.xml:26:9-58
+22-->[androidx.test:runner:1.5.2] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\47132d8231f87b7b9bdd02c0120ab6f1\transformed\runner-1.5.2\AndroidManifest.xml:26:18-55
+23        <package android:name="com.google.android.apps.common.testing.services" />
+23-->[androidx.test:runner:1.5.2] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\47132d8231f87b7b9bdd02c0120ab6f1\transformed\runner-1.5.2\AndroidManifest.xml:27:9-83
+23-->[androidx.test:runner:1.5.2] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\47132d8231f87b7b9bdd02c0120ab6f1\transformed\runner-1.5.2\AndroidManifest.xml:27:18-80
+24    </queries>
+25
+26    <application
+26-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12575581841346457122.xml:7:5-9:19
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.8.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\36e578a5fd39d5e1d60a8ed0e7fd4a9a\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+28        android:debuggable="true"
+29        android:extractNativeLibs="false" >
+30        <uses-library android:name="android.test.runner" />
+30-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12575581841346457122.xml:8:9-60
+30-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12575581841346457122.xml:8:23-57
+31
+32        <activity
+32-->[androidx.compose.ui:ui-tooling:1.3.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\7fa29fbfc1e60cb9fda8850618451baf\transformed\ui-tooling-1.3.0\AndroidManifest.xml:23:9-25:39
+33            android:name="androidx.compose.ui.tooling.PreviewActivity"
+33-->[androidx.compose.ui:ui-tooling:1.3.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\7fa29fbfc1e60cb9fda8850618451baf\transformed\ui-tooling-1.3.0\AndroidManifest.xml:24:13-71
+34            android:exported="true" />
+34-->[androidx.compose.ui:ui-tooling:1.3.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\7fa29fbfc1e60cb9fda8850618451baf\transformed\ui-tooling-1.3.0\AndroidManifest.xml:25:13-36
+35        <activity
+35-->[androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\78dfb5d05f0275a242d4617785fac494\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:23:9-25:39
+36            android:name="androidx.activity.ComponentActivity"
+36-->[androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\78dfb5d05f0275a242d4617785fac494\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:24:13-63
+37            android:exported="true" />
+37-->[androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\78dfb5d05f0275a242d4617785fac494\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:25:13-36
+38        <activity
+38-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:27:9-34:20
+39            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+39-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:28:13-99
+40            android:exported="true"
+40-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:29:13-36
+41            android:theme="@style/WhiteBackgroundTheme" >
+41-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:30:13-56
+42            <intent-filter android:priority="-100" >
+42-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:31:13-33:29
+42-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:31:28-51
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:32:17-77
+43-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:32:27-74
+44            </intent-filter>
+45        </activity>
+46        <activity
+46-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:35:9-42:20
+47            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+47-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:36:13-95
+48            android:exported="true"
+48-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:37:13-36
+49            android:theme="@style/WhiteBackgroundTheme" >
+49-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:38:13-56
+50            <intent-filter android:priority="-100" >
+50-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:31:13-33:29
+50-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:31:28-51
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:32:17-77
+51-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:32:27-74
+52            </intent-filter>
+53        </activity>
+54        <activity
+54-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:43:9-50:20
+55            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+55-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:44:13-103
+56            android:exported="true"
+56-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:45:13-36
+57            android:theme="@style/WhiteBackgroundDialogTheme" >
+57-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:46:13-62
+58            <intent-filter android:priority="-100" >
+58-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:31:13-33:29
+58-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:31:28-51
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:32:17-77
+59-->[androidx.test:core:1.5.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\53a1a851621be3ffa7940697820acd2a\transformed\core-1.5.0\AndroidManifest.xml:32:27-74
+60            </intent-filter>
+61        </activity>
+62
+63        <provider
+63-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:25:9-33:20
+64            android:name="androidx.startup.InitializationProvider"
+64-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:26:13-67
+65            android:authorities="com.example.multimodule.test.androidx-startup"
+65-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:27:13-68
+66            android:exported="false" >
+66-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:28:13-37
+67            <meta-data
+67-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:30:13-32:52
+68                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+68-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:31:17-85
+69                android:value="androidx.startup" />
+69-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:32:17-49
+70        </provider>
+71
+72        <receiver
+72-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:35:9-47:20
+73            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+73-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:36:13-76
+74            android:directBootAware="false"
+74-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:37:13-44
+75            android:enabled="true"
+75-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:38:13-35
+76            android:exported="true"
+76-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:39:13-36
+77            android:permission="android.permission.DUMP" >
+77-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:40:13-57
+78            <intent-filter>
+78-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:41:13-43:29
+79                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+79-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:42:17-91
+79-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:42:25-88
+80            </intent-filter>
+81            <intent-filter>
+81-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:44:13-46:29
+82                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+82-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:45:17-85
+82-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\mahmoud.abdallah\.gradle\caches\transforms-3\48ecbfbc867087e33460e045c766fba6\transformed\profileinstaller-1.2.0\AndroidManifest.xml:45:25-82
+83            </intent-filter>
+84        </receiver>
+85    </application>
+86
+87</manifest>

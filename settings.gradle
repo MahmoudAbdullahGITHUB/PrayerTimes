@@ -1,0 +1,29 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "MultiModule"
+include ':app'
+include ':core'
+include ':constants'
+include ':components'
+include ':prayer-time'
+
+// Kotlin Libraries
+include ':prayer-time:datasource'
+include ':prayer-time:domain'
+include ':prayer-time:interactors'
+
+// Android Modules
+include ':prayer-time:ui-prayerList'
+include ':prayer-time:ui-prayerDetail'

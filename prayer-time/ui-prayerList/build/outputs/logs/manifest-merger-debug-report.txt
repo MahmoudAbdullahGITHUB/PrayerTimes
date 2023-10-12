@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		INJECTED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:6:22-74
+application
+ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:8:5-25:19
+receiver#com.example.ui_prayerList.ui.MyBroadcast
+ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:11:9-19:20
+	android:enabled
+		ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:13:13-35
+	android:exported
+		ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:12:13-68
+intent-filter#action:name:android.intent.action.CLOSE_SYSTEM_DIALOGS
+ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:16:13-18:29
+action#android.intent.action.CLOSE_SYSTEM_DIALOGS
+ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:17:17-85
+	android:name
+		ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:17:25-82
+service#com.example.ui_prayerList.ui.MyService
+ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:21:9-24:39
+	android:enabled
+		ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:23:13-35
+	android:exported
+		ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:22:13-66
+uses-sdk
+INJECTED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml

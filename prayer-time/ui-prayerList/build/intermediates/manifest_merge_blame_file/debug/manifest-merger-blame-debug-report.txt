@@ -1,0 +1,46 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.multimodule" >
+4
+5    <uses-sdk android:minSdkVersion="26" />
+5-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.INTERNET" />
+7-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:4:5-67
+7-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:4:22-64
+8    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+8-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:5:5-79
+8-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:5:22-76
+9    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+9-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:6:5-77
+9-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:6:22-74
+10
+11    <application>
+11-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:8:5-25:19
+12        <receiver
+12-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:11:9-19:20
+13            android:name="com.example.ui_prayerList.ui.MyBroadcast"
+13-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:12:13-68
+14            android:enabled="true"
+14-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:13:13-35
+15            android:exported="true" >
+15-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:14:13-36
+16            <intent-filter>
+16-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:16:13-18:29
+17                <action android:name="android.intent.action.CLOSE_SYSTEM_DIALOGS" />
+17-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:17:17-85
+17-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:17:25-82
+18            </intent-filter>
+19        </receiver>
+20
+21        <service
+21-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:21:9-24:39
+22            android:name="com.example.ui_prayerList.ui.MyService"
+22-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:22:13-66
+23            android:enabled="true"
+23-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:23:13-35
+24            android:exported="true" />
+24-->C:\Users\mahmoud.abdallah\Desktop\MintroringWebpage-master\MultiModule\prayer-time\ui-prayerList\src\main\AndroidManifest.xml:24:13-36
+25    </application>
+26
+27</manifest>

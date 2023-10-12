@@ -1,0 +1,21 @@
+com.example.multimodule
+color ic_bitmaplauncher_background
+color ic_cancel_background
+drawable baseline_baby_changing_station_24
+drawable baseline_keyboard_arrow_down_24
+drawable ic_bitmaplauncher_foreground
+drawable ic_cancel_foreground
+drawable round_orange_background
+drawable sultan_qaboos_mosque
+id cancel_btn
+id notification_content1
+id notification_title
+layout notification_layout
+mipmap ic_bitmaplauncher
+mipmap ic_bitmaplauncher_round
+mipmap ic_cancel
+mipmap ic_cancel_round
+raw azan1
+raw azan2
+raw azan3
+raw thunder
